@@ -14,5 +14,5 @@
     - opening another session (horizontally) -> ctrl + b + %
     - Opening another session (vertically) -> ctrl + b + " 
 - ### Switching the sessions
-    - switching -> Ctrl + b + <ArrowKeys>
-    
+    - switching -> Ctrl + b + < ArrowKeys >
+
