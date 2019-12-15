@@ -15,4 +15,5 @@
     - Opening another session (vertically) -> ctrl + b + " 
 - ### Switching the sessions
     - switching -> Ctrl + b + < ArrowKeys >
+    - switching circling -> Ctrl + b + o
 
