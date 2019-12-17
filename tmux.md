@@ -1,7 +1,7 @@
 # Tmux - Terminal Emulator
-    It's an terminal emulator, which means that you can emulate multiple terminal session in one terminal window. 
-    :relieved:
-
+It's an terminal emulator, which means that you can emulate multiple terminal session in one terminal window. 
+:relieved:
+![Tmux](images/tmux.png)
 ## why do we need it?
     Boosts your productivity...
 ## how to install
