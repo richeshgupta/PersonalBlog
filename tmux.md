@@ -22,4 +22,7 @@
 - ### Switching the sessions
     - switching -> Ctrl + b + < ArrowKeys >
     - switching circling -> Ctrl + b + o
+- ### Resizing the panes 
+    - Switch to the active pane then-> [ctrl + b] (hold) + < ArrowKeys >
+    
 
