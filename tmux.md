@@ -19,11 +19,11 @@ Boosts your productivity...
 ## Basic Shortcuts
 - ### Basics
     - opening the terminal -> Ctrl + T
-    - opening Tmux - > tmux
+    - opening command for tmux - > tmux
     - listing all the sessions of tmux -> tmux ls
     - going to any particular session -> tmux attach -t 0 
-    [in place of 0 replace the session code]
-
+        [in place of 0 replace the session code]
+    
 - ### Opening Session
     - opening another session (horizontally) -> ctrl + b + %
     - Opening another session (vertically) -> ctrl + b + " 
